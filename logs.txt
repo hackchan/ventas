@@ -1,0 +1,11 @@
+commit 5a45cbef6b82b91ad010a64e2bae3da5addd46a4
+Author: unknown <fabio.rojas@PC0000007765.AC75.COM>
+Date:   Tue Apr 21 10:18:43 2015 -0500
+
+    control de veriones
+
+commit 10cc4d15be18de2854f7996b34ee7071f4b8d92c
+Author: unknown <fabio.rojas@PC0000007765.AC75.COM>
+Date:   Tue Apr 21 10:12:20 2015 -0500
+
+    iniciando proyecto ventas
